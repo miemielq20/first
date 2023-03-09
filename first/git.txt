@@ -11,4 +11,6 @@
 11.git push -u origin master提交到远程库  git push origin master
 12.git clone https://github.com/miemielq20/first.git  复制
 13.git pull origin master提交前先拉取一下服务器代码并合并
- 14.git cheout -b aaa   创建新分支aaa
+14.git cheout -b aaa   创建新分支aaa
+15.git cheout aaa 切换分支
+16.git merge aaa 合并aaa分支
