@@ -1,3 +1,6 @@
-console.log(11111)
-console.log(5555)
-console.log(6666)
+for (const key in object) {
+    if (Object.hasOwnProperty.call(object, key)) {
+        const element = object[key];
+        
+    }
+}
