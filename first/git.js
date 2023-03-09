@@ -1,10 +1,3 @@
 console.log(11111)
-for (const key in object) {
-    if (Object.hasOwnProperty.call(object, key)) {
-        const element = object[key];
-        
-    }
-}
-array.forEach(element => {
-    
-});
+console.log(5555)
+console.log(6666)
