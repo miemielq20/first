@@ -4,3 +4,7 @@ for (const key in object) {
         
     }
 }
+console.log(22)
+console.log(22)
+console.log(288882)
+console.log(244442)
