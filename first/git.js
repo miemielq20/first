@@ -5,3 +5,6 @@ for (const key in object) {
         
     }
 }
+array.forEach(element => {
+    
+});
