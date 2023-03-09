@@ -1,0 +1,13 @@
+1.git init 初始化本地仓库
+2.git add.  添加暂存区  
+3.git status 查看提交状态
+4.git commit -m '第一次提交代码' 提交到本地仓库
+5.git log 提交记录
+6.git reset --hard HEAD^  回退一个版本   ~1 ~2
+7.git reflog 操作记录
+8.git reset --hard  版本号
+9.git diff 对比仓库代码
+10.git remote add origin https://github.com/miemielq20/first.git 添加一个远程源
+11.git push -u origin master提交到远程库  git push origin master
+12.git clone https://github.com/miemielq20/first.git  复制
+  
