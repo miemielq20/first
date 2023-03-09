@@ -4,3 +4,4 @@ for (const key in object) {
         
     }
 }
+console.assert(2)
