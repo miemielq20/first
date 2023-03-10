@@ -17,4 +17,4 @@
 17.git push origin aaa   提交分支到仓库 要切到分支上
 18.git branch -a 查看已有分支
 19.git origin :a 清除仓库里分支内容
-20.git branch -d a 删除分支
+20.git branch -d a 删除分支 不能在摇删除的分支上
