@@ -14,3 +14,4 @@
 14.git checkout -b aaa   创建新分支aaa
 15.git checkout aaa 切换分支
 16.git merge aaa 合并aaa分支
+17.git push origin aaa   提交分支到仓库 要切到分支上
